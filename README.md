@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santicampano
-- 👀 I’m interested in <code>JavaScript</code>, <code>Phyton</code>, <code>Web development</code>, <code>meeting points</code>
+- 👀 I’m interested in <code>JavaScript</code>, <code>Phyton</code>, <code>Web development</code>, <code>meetups</code>
 - 🌱 I’m currently learning <code>HTML & CSS</code>, <code>JavaScript</code>, <code>GitHub</code>
 - 💞️ I’m looking to collaborate on learning projets, GitHub & Opensource Community
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/santiagocampano/">on my LinkedIn profile :)<a/>
